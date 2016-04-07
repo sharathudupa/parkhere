@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.screen {
+  height: 85%;
+  width: 100%;
+}
+
+.screen1 {
+  height: 10%;
+  width: 90% ;
+  padding-top: .5%;
+  margin-left: auto ;
+  margin-right: auto ;
+  text-align: center;
+}
+
+#location {  
+    width: 65%;
+    padding: 5px;  
+    font-size: 15px;  
+    text-shadow: 0px 1px 0px #fff;  
+} 
